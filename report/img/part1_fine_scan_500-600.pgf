@@ -3179,7 +3179,7 @@
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=2.784000in,y=0.306240in,,top]{\color{textcolor}\rmfamily\fontsize{17.280000}{20.736000}\selectfont \(\displaystyle \epsilon_m\)}%
+\pgftext[x=3.180800in,y=0.306240in,,top]{\color{textcolor}\rmfamily\fontsize{17.280000}{20.736000}\selectfont \(\displaystyle \epsilon_m\)}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \pgfsetbuttcap%
